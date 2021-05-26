@@ -1,4 +1,5 @@
-<h2> Hey there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Vishruta Patil </h2>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishruta Patil</h1>
+<h3 align="center">A Simple Girl with Big Dreams!!</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
