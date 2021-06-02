@@ -33,8 +33,19 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
  
 <br/>
+<h2>🔗 Social Links </h2>
+<p>
+<a href="https://github.com/Vishruta-Patil" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>  
+ <a href="http://www.linkedin.com/in/vishruta-patil-30106b204" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a> 
+ <a href="https://www.instagram.com/_vishruta_9/" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a> 
+  <a href="https://twitter.com/vishruta_patil" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='Twitter' height='40'></a>   
+<a href="https://vishrutapatil2106.medium.com/" target="_blank"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>  </a> 
+</p>
+<br/>
 
+<h2>📈 My GitHub Stats </h2>
 <a href="https://github.com/Vishruta-Patil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishruta-Patil&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishruta-Patil&theme=buefy&layout=compact" />
 </a>
+ <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=vishruta-patil.vishruta-patil" /> </p>
