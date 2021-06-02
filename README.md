@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishruta Patil</h1>
 <h3 align="center">A Simple Girl with Big Dreams!!</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on full stack web-development project.
 - 🌱 I’m currently learning React, Django.
@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 <br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
