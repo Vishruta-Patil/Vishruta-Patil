@@ -1,17 +1,21 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishruta Patil</h1>
 <h3 align="center">A Simple Girl with Big Dreams!!</h3>
-
-<h2> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2></h2>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🔭 I’m currently working on full stack web-development project.
-- 🌱 I’m currently learning React, Django.
+- 🌱 I’m currently learning **React, Django**.
 - 👯 I’m looking to collaborate in real world projects and hackathons. 
-- 🤔 I’m looking for: Internship opportunities
+- 🤔 I’m looking for: **Internship opportunities**
 - 📫 How to reach me: vishrutapatil2106@gmail.com
 - 😄 Pronouns: she/her
-<br>
 
-<h2> 🛠 &nbsp;Tech Stack</h3>
+<h2></h2>
+
+<h2>💻 Checkout my Portfolio <a href="https://vishrutapatil.netlify.app/">here</a>
+<br> <br>
+  
+ <h2> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
