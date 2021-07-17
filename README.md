@@ -4,6 +4,8 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🔭 I’m currently working on full stack web-development project.
+
+- 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/120569)](https://studentambassadors.microsoft.com/en-US/profile/120569)
 - 🌱 I’m currently learning **React, Django**.
 - 👯 I’m looking to collaborate in real world projects and hackathons. 
 - 🤔 I’m looking for: **Internship opportunities**
