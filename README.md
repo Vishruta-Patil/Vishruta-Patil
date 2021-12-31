@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishruta Patil</h1>
 <h3 align="center">A Simple Girl with Big Dreams!!</h3>
 <h2></h2>
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🔭 I’m currently working on full stack web-development project.
+## 🧐 About Me
 
+- 🔭 I’m currently working on **React** & **Redux**. ✨
+- 🌱 I’m currently learning **TypeScript** & exploring **Azure**. 🚀
 - 🙌 Communities active with: [![Microsoft Learn Student Ambassador](https://img.shields.io/badge/-Microsoft_Learn_Student_Ambassador-blue?style=plastic&logo=microsoft&link=https://studentambassadors.microsoft.com/en-US/profile/120569)](https://studentambassadors.microsoft.com/en-US/profile/120569)
-- 🌱 I’m currently learning **React, Django**.
-- 👯 I’m looking to collaborate in real world projects and hackathons. 
-- 🤔 I’m looking for: **Internship opportunities**
+- 👯 I’m looking to collaborate in real world projects and hackathons. 🤗
+- 🤔 I’m looking for: **Internship opportunities** 👩‍💻🔥
 - 📫 How to reach me: vishrutapatil2106@gmail.com
 - 😄 Pronouns: she/her
 
@@ -19,24 +19,27 @@
   
  <h2> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 💻
+  [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+ [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  [![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+[![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  
+- 🛢 &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+ 
  
 <br/>
 <h2>🔗 Social Links </h2>
