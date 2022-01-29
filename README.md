@@ -46,7 +46,10 @@
 
 <h2>📈 My GitHub Stats </h2>
 <a href="https://github.com/Vishruta-Patil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishruta-Patil&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishruta-Patil&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishruta-Patil&show_icons=true&theme=radical" /> &nbsp; &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishruta-Patil&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="=Vishruta-Patil" />
 </a>
+  
+<br/> 
+  
  <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=vishruta-patil.vishruta-patil" /> </p>
