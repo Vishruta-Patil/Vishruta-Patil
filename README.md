@@ -1,5 +1,5 @@
 <img src="./Vishruta Patil.png" alt="profile-banner" />
-<h1 align="center">Hi, I'm Vishruta Patil</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vishruta Patil</h1>
 <p>I'm Vishruta Patil, a final year Computer engineering undergrad from the University of Mumbai. I love to build web apps and to participate in various hackathons. I have won first prize in the HackNeoG'22 organized by neoG Camp and I am also the finalist of Smart India Hackathon'22 oragnized by the Government of India. 
 
 I was a Software Developer Intern at <a href="https://khelgully.com/">Khelgully Gaming Pvt Ltd</a> where I have built an end to end admin panel using JavaScript, React, Redux, Material UI. Apart from that, I was also Developer Intern at <a href="https://neog.camp/">neoG Camp</a> where I was responible for reviewing different projects in accordance with the quality of code and fixing the technical issues. I am also part of <a href="https://studentambassadors.microsoft.com/en-US/profile/120569">Microsoft Learn Student Ammbassador</a> community where I have hosted technical event on Microsoft technologies and imparted knowledge to more than 100 students.</p>
@@ -32,7 +32,6 @@ I was a Software Developer Intern at <a href="https://khelgully.com/">Khelgully 
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
- <br>
   
 <h2>🔗 Social Links </h2>
 
@@ -43,7 +42,6 @@ I was a Software Developer Intern at <a href="https://khelgully.com/">Khelgully 
 <a href="https://twitter.com/vishruta_patil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.instagram.com/_vishruta_9/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<br>
 
 <h2>📈 My GitHub Stats </h2>
 <a href="https://github.com/Vishruta-Patil">
